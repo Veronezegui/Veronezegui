@@ -1,6 +1,6 @@
 # Olá! Aqui é o Guilherme Veroneze 👋
 
-- 🔭 Atualmente estou em busca de uma oportunidade com desenvolvimento mobile.
+- 🔭 Atualmente estou em busca de uma oportunidade com desenvolvimento front-end.
 - 🌱 Estudando: React-native, Typescript e Node.js
 
 <div>
