@@ -5,7 +5,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veronezegui&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
 </div>
 <hr>
 <div style="display: inline_block">
