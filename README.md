@@ -5,7 +5,7 @@
 
 ---
 
-# Olá 👋
+<p align="center"> # Olá 👋 </p>
 
 
 ## Sobre mim
