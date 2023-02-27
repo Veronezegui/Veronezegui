@@ -1,4 +1,11 @@
-# Olá! Aqui é o Guilherme Veroneze 👋
+# Olá 👋
+
+<img src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=">
+
+## Sobre mim
+
+
+
 
 - 🔭 Atualmente estou em busca de uma oportunidade com desenvolvimento front-end.
 - 🌱 Estudando: React-native, Typescript e Node.js
@@ -17,8 +24,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 <hr>
-<a href="https://github.com/Veronezegui">
-  <img src="https://img.shields.io/badge/LINKED IN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)]">
-</a>
+
 
 
