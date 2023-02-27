@@ -34,10 +34,9 @@ Meu nome é Guilherme da Silva Veroneze e sou Desenvolvedor Front-End, fique a v
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veronezegui&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veronezegui&show_icons=true&theme=radical"/>
+
 <hr>
 
 
