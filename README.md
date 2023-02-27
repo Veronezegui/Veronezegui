@@ -18,7 +18,7 @@
 </div>
 <hr>
 <a href="https://github.com/Veronezegui">
-  <img src="https://img.shields.io/badge/LINKED IN-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]">
+  <img src="https://img.shields.io/badge/LINKED IN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)]">
 </a>
 
 
