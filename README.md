@@ -17,6 +17,7 @@
 
 Meu nome é Guilherme da Silva Veroneze e sou Desenvolvedor Front-End, fique a vontade para dar uma olhada em meu perfil e caso seja de seu interesse entre em contato 😁.
 <hr>
+
 ## Tecnologias
 
 <div style="display: inline_block">
