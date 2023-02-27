@@ -11,8 +11,6 @@
   </a>
 </div>
 
----
-
 <h1 align="center">  Olá 👋 </p>
 
 ## Sobre mim
